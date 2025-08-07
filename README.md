@@ -1,4 +1,3 @@
-Calculadora em React
 Uma calculadora simples e funcional desenvolvida como parte de um estudo aprofundado em React e estilização com styled-components.
 
 Sobre o Projeto
